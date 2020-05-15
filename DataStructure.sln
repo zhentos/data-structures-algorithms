@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueueBasedOnLinkedList", "Q
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedList", "LinkedList\LinkedList\LinkedList.csproj", "{2415B01E-49F0-4BCE-B274-F9FB42DEE391}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dequeue", "Dequeue\Dequeue.csproj", "{4895103F-A519-4C8E-A0F4-57B138813028}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dequeue", "Dequeue\Dequeue.csproj", "{4895103F-A519-4C8E-A0F4-57B138813028}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackBasedOnArray", "StackBasedOnArray\StackBasedOnArray.csproj", "{0D5F9259-506C-47F1-8632-936F70FCE9D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackBasedOnArray", "StackBasedOnArray\StackBasedOnArray.csproj", "{0D5F9259-506C-47F1-8632-936F70FCE9D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackBasedOnLinkedList", "StackBasedOnLinkedList\StackBasedOnLinkedList.csproj", "{0391BCDC-683B-4ADD-BC8E-BEDC7CDD7F0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackBasedOnLinkedList", "StackBasedOnLinkedList\StackBasedOnLinkedList.csproj", "{0391BCDC-683B-4ADD-BC8E-BEDC7CDD7F0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleNode", "DoubleNode\DoubleNode.csproj", "{1F883E1E-78D1-4E17-9425-79069AB0F11D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,6 +73,14 @@ Global
 		{0391BCDC-683B-4ADD-BC8E-BEDC7CDD7F0E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0391BCDC-683B-4ADD-BC8E-BEDC7CDD7F0E}.Release|x86.ActiveCfg = Release|Any CPU
 		{0391BCDC-683B-4ADD-BC8E-BEDC7CDD7F0E}.Release|x86.Build.0 = Release|Any CPU
+		{1F883E1E-78D1-4E17-9425-79069AB0F11D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F883E1E-78D1-4E17-9425-79069AB0F11D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F883E1E-78D1-4E17-9425-79069AB0F11D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1F883E1E-78D1-4E17-9425-79069AB0F11D}.Debug|x86.Build.0 = Debug|Any CPU
+		{1F883E1E-78D1-4E17-9425-79069AB0F11D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F883E1E-78D1-4E17-9425-79069AB0F11D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F883E1E-78D1-4E17-9425-79069AB0F11D}.Release|x86.ActiveCfg = Release|Any CPU
+		{1F883E1E-78D1-4E17-9425-79069AB0F11D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
