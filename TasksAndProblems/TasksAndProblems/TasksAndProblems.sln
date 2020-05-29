@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinariGap", "BinariGap\BinariGap.csproj", "{BABD8C74-D30A-4DA4-AD57-26E72393F6F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinariGap", "BinariGap\BinariGap.csproj", "{BABD8C74-D30A-4DA4-AD57-26E72393F6F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{4BE5CC42-3168-40A6-A1AE-8593E502D842}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{4BE5CC42-3168-40A6-A1AE-8593E502D842}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetupSchedule", "MeetupSchedule\MeetupSchedule.csproj", "{821E761F-1070-434C-8D35-F77A026A5B4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4BE5CC42-3168-40A6-A1AE-8593E502D842}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BE5CC42-3168-40A6-A1AE-8593E502D842}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BE5CC42-3168-40A6-A1AE-8593E502D842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{821E761F-1070-434C-8D35-F77A026A5B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821E761F-1070-434C-8D35-F77A026A5B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821E761F-1070-434C-8D35-F77A026A5B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821E761F-1070-434C-8D35-F77A026A5B4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
