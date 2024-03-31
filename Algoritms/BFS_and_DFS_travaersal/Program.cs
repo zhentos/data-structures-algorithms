@@ -14,4 +14,6 @@ static Node Build()
 
 var tree = Build();
 
-Utils.BfsTraversal(tree);
+//Utils.BfsTraversal(tree);
+
+Utils.DFSTraversal(tree);
