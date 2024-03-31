@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFS_and_DFS_travaersal", "B
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BFS-DFS-Traversal", "BFS-DFS-Traversal", "{4F05EB4D-20D0-4702-8CDD-06F55E2F2CA9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tree-Max-Sum-From-Root-To-Leaf", "Tree-Max-Sum-From-Root-To-Leaf", "{981598D5-81DD-4CF4-9697-A254A732C1FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeMaxSumFromRootToLeaf", "TreeMaxSumFromRootToLeaf\TreeMaxSumFromRootToLeaf.csproj", "{64535CBD-7FFB-4A24-9F1A-558A0AF28BEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{4F734423-E80E-4DAB-A649-AE98DF145C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F734423-E80E-4DAB-A649-AE98DF145C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F734423-E80E-4DAB-A649-AE98DF145C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64535CBD-7FFB-4A24-9F1A-558A0AF28BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64535CBD-7FFB-4A24-9F1A-558A0AF28BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64535CBD-7FFB-4A24-9F1A-558A0AF28BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64535CBD-7FFB-4A24-9F1A-558A0AF28BEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4F734423-E80E-4DAB-A649-AE98DF145C8D} = {4F05EB4D-20D0-4702-8CDD-06F55E2F2CA9}
+		{64535CBD-7FFB-4A24-9F1A-558A0AF28BEA} = {981598D5-81DD-4CF4-9697-A254A732C1FA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C67F6938-ACF8-410E-BA8D-3E6F5F7B9561}
