@@ -25,5 +25,14 @@
                 }
             }
         }
+
+        public static void DFSTraversal(Node node)
+        {
+            if (node == null) return;
+
+            Console.Write(node.Val.ToString() + " ");
+            DFSTraversal(node.Left);
+            DFSTraversal(node.Right);
+        }
     }
 }
