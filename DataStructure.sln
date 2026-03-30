@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36915.13 d17.14
+VisualStudioVersion = 17.14.36915.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoubleLinkedList", "DoubleLinkedList\DoubleLinkedList\DoubleLinkedList.csproj", "{BC252335-40EF-4006-A3DC-BD9E8B69C2D8}"
 EndProject
@@ -20,6 +20,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingAlgorithms", "SortingAlgorithms\SortingAlgorithms.csproj", "{AD332F7E-830C-4856-B3C1-C30A4E9E3835}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeros_283", "MoveZeros_283\MoveZeros_283.csproj", "{FD9E5ACB-DF4A-4831-9E53-F9CA7BA8C097}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrappingRainWater_LeetCode_42", "TrappingRainWater_LeetCode_42\TrappingRainWater_LeetCode_42.csproj", "{1953A6F7-62DD-42D9-8EBA-EC86580DEBDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArray", "MergeSortedArray\MergeSortedArray.csproj", "{6ED1163F-6DF7-4128-9509-0FF58696ED84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -101,6 +105,22 @@ Global
 		{FD9E5ACB-DF4A-4831-9E53-F9CA7BA8C097}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FD9E5ACB-DF4A-4831-9E53-F9CA7BA8C097}.Release|x86.ActiveCfg = Release|Any CPU
 		{FD9E5ACB-DF4A-4831-9E53-F9CA7BA8C097}.Release|x86.Build.0 = Release|Any CPU
+		{1953A6F7-62DD-42D9-8EBA-EC86580DEBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1953A6F7-62DD-42D9-8EBA-EC86580DEBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1953A6F7-62DD-42D9-8EBA-EC86580DEBDF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1953A6F7-62DD-42D9-8EBA-EC86580DEBDF}.Debug|x86.Build.0 = Debug|Any CPU
+		{1953A6F7-62DD-42D9-8EBA-EC86580DEBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1953A6F7-62DD-42D9-8EBA-EC86580DEBDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1953A6F7-62DD-42D9-8EBA-EC86580DEBDF}.Release|x86.ActiveCfg = Release|Any CPU
+		{1953A6F7-62DD-42D9-8EBA-EC86580DEBDF}.Release|x86.Build.0 = Release|Any CPU
+		{6ED1163F-6DF7-4128-9509-0FF58696ED84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED1163F-6DF7-4128-9509-0FF58696ED84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED1163F-6DF7-4128-9509-0FF58696ED84}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6ED1163F-6DF7-4128-9509-0FF58696ED84}.Debug|x86.Build.0 = Debug|Any CPU
+		{6ED1163F-6DF7-4128-9509-0FF58696ED84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED1163F-6DF7-4128-9509-0FF58696ED84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ED1163F-6DF7-4128-9509-0FF58696ED84}.Release|x86.ActiveCfg = Release|Any CPU
+		{6ED1163F-6DF7-4128-9509-0FF58696ED84}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
