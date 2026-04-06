@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrappingRainWater_LeetCode_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArray", "MergeSortedArray\MergeSortedArray.csproj", "{6ED1163F-6DF7-4128-9509-0FF58696ED84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedArray_26", "RemoveDuplicatesFromSortedArray_26\RemoveDuplicatesFromSortedArray_26.csproj", "{36275C52-CA4F-45D1-A3A2-4D84B6C3B78E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,6 +123,14 @@ Global
 		{6ED1163F-6DF7-4128-9509-0FF58696ED84}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6ED1163F-6DF7-4128-9509-0FF58696ED84}.Release|x86.ActiveCfg = Release|Any CPU
 		{6ED1163F-6DF7-4128-9509-0FF58696ED84}.Release|x86.Build.0 = Release|Any CPU
+		{36275C52-CA4F-45D1-A3A2-4D84B6C3B78E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36275C52-CA4F-45D1-A3A2-4D84B6C3B78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36275C52-CA4F-45D1-A3A2-4D84B6C3B78E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{36275C52-CA4F-45D1-A3A2-4D84B6C3B78E}.Debug|x86.Build.0 = Debug|Any CPU
+		{36275C52-CA4F-45D1-A3A2-4D84B6C3B78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36275C52-CA4F-45D1-A3A2-4D84B6C3B78E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36275C52-CA4F-45D1-A3A2-4D84B6C3B78E}.Release|x86.ActiveCfg = Release|Any CPU
+		{36275C52-CA4F-45D1-A3A2-4D84B6C3B78E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
