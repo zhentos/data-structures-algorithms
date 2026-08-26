@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NimGame_292", "NimGame_292\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSheetColumnNumber_168", "ExcelSheetColumnNumber_168\ExcelSheetColumnNumber_168.csproj", "{30A24B1A-2536-4D4B-8850-1A2C97D23861}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutations_46", "Permutations_46\Permutations_46.csproj", "{88477711-6DD8-4396-9EED-11FC4A078A05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -423,6 +425,14 @@ Global
 		{30A24B1A-2536-4D4B-8850-1A2C97D23861}.Release|Any CPU.Build.0 = Release|Any CPU
 		{30A24B1A-2536-4D4B-8850-1A2C97D23861}.Release|x86.ActiveCfg = Release|Any CPU
 		{30A24B1A-2536-4D4B-8850-1A2C97D23861}.Release|x86.Build.0 = Release|Any CPU
+		{88477711-6DD8-4396-9EED-11FC4A078A05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88477711-6DD8-4396-9EED-11FC4A078A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88477711-6DD8-4396-9EED-11FC4A078A05}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{88477711-6DD8-4396-9EED-11FC4A078A05}.Debug|x86.Build.0 = Debug|Any CPU
+		{88477711-6DD8-4396-9EED-11FC4A078A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88477711-6DD8-4396-9EED-11FC4A078A05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88477711-6DD8-4396-9EED-11FC4A078A05}.Release|x86.ActiveCfg = Release|Any CPU
+		{88477711-6DD8-4396-9EED-11FC4A078A05}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
